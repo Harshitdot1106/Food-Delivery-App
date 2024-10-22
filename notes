@@ -1,0 +1,3 @@
+we create a vite react app using the command "vite create@latest" and then we select the react category in it
+to add tailwind to frontend we use command "npm i -D tailwindcss postcss autoprefixer" and then "npx tailwindcss init -p"
+refer to the video from 13:49 for full stripe cli activation and to make it work
